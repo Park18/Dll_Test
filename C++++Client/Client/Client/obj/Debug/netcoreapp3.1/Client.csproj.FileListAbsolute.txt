@@ -1,0 +1,16 @@
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Client.exe
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Client.dll
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Client.pdb
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.dll
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.pdb
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Library.dll
+D:\Code\DLL연습\C++++Client\Client\Client\bin\Debug\netcoreapp3.1\Library.pdb
+D:\Code\DLL연습\C++++Client\Client\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
